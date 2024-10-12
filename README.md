@@ -23,3 +23,11 @@ I also tried deplying the project on heroku, so it could run on a cloud but that
 So unfortunately I have to stick to code that you have to run on your computer, and enter your email and it will give you the top stories on hackernews!
 
 ![image](https://github.com/user-attachments/assets/62902e64-e6ed-4b07-8065-b3b202839567)
+
+# Instructions
+
+1. Download scrape.py and SendingScrapedDatawithGUI.py
+
+2. Run SendingScrapedDatawithGUI.py on any code editor or console.
+
+3. Enter your email, and you will recieve an email of the top Stories in the past 24 hours!
