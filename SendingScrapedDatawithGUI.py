@@ -10,8 +10,8 @@ import threading
 # Set up email parameters
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
-sender_email = "hackernewsupdates@gmail.com"  # Your address
-password = "efroymraqfvkqtma"  # App Password
+sender_email = "**********@gmail.com"  # Your address
+password = "**********"  # App Password
 
 def send_email(receiver_email, progress):
     progress.start(10)  # Start loading bar
